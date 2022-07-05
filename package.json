@@ -6,7 +6,9 @@
     "@apollo/client": "^3.6.7",
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
-    "@mui/material": "latest",
+    "@mui/material": "^5.8.7",
+    "@mui/styled-engine-sc": "^5.8.0",
+    "@mui/system": "^5.8.7",
     "@types/node": "^16.11.39",
     "@types/react": "^18.0.12",
     "@types/react-dom": "^18.0.5",
@@ -14,7 +16,8 @@
     "http-proxy-middleware": "^2.0.6",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "styled-components": "^5.3.5"
   },
   "proxy": "http://152.228.215.94:81",
   "scripts": {

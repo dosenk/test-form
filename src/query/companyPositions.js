@@ -12,7 +12,7 @@ export const GET_DATA = gql`
 `;
 
 export const GET_FILTERED_POSITION = gql`
-  query applicantIndividualCompanyPositions {
+  query asd {
     applicantIndividualCompanyPositions(
       where: { column: NAME, operator: LIKE, value: "Director" }
     ) {
